@@ -21,6 +21,11 @@ The vocabulary is sourced from curated datasets of real English characteristics 
 
 ## 📜 API Contract
 
+###
+Base URL
+```text
+https://rn.kerneltalks.com/
+```
 ### Endpoint
 ```sql
 GET /

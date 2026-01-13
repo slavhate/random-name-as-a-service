@@ -1,4 +1,4 @@
-# 🎲 Random Names as a Service (RNaaS)
+# 🎲 Random Name as a Service (RNaaS)
 
 > This project exists to answer a simple question well:
 >

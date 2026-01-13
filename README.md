@@ -9,7 +9,7 @@
 ![Banner](./assets/rnaas.png)
 
 A lightweight HTTP-accessible service (and an self-hosted API) that returns a random, human-readable name
-composed of a characteristic and an animal.
+composed of a characteristic and an animal. Perfect for naming variables, resources, and temporary entities or in identifiers, demos, placeholders, and testing.
 
 ## ⚙️ What It Does
 

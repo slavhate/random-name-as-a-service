@@ -1,0 +1,10 @@
+{
+  "name": "random-name-as-a-service",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Random Name as a Service API",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
